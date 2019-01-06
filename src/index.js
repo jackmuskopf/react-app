@@ -1,6 +1,5 @@
 import React from "react";
 import ReactDOM from "react-dom";
-import App from "./component/App";
 import "./index.css";
 import "https://use.fontawesome.com/releases/v5.3.1/css/all.css"
 import "https://fonts.googleapis.com/css?family=Raleway:400,200"
