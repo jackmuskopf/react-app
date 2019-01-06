@@ -24,7 +24,7 @@ class App extends React.Component {
         <Display value={this.state.next || this.state.total || "0"} />
         <ButtonPanel clickHandler={this.handleClick} />
         <a href="https://github.com/jackmuskopf/react-app" title="github">
-          <img src="dragon.png" class="imgBorder" width="200" height="200" alt="dragon"/> 
+          <img src="dragon.png" className="imgBorder" width="200" height="200" alt="dragon"/> 
         </a>
       </div>
     );
