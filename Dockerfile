@@ -5,7 +5,7 @@ FROM node:latest
 # Create app directory
 WORKDIR /usr/src/app
 
-RUN git clone https://github.com/jackmuskopf/react-app.git .
+RUN git clone --single-branch --branch upload-something https://github.com/jackmuskopf/react-app.git .
 
 RUN npm install
 
