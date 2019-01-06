@@ -20,7 +20,7 @@ ReactDOM.render(
     <img src="./assets/dragon.png" class="pic">
     <p>
       <a href="./index.html/">These</a> | 
-      <a href="index.html"">Are just</a> | 
+      <a href="index.html">Are just</a> | 
       <a href="a;las;ldjas;dflka">Links</a> | 
       Except this
     </p>
