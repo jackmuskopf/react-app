@@ -16,9 +16,9 @@ ReactDOM.render(
     <p>to stay</p>
     <img src="./dragon.png" alt="dragon" className="pic"/>
     <p>
-      <a href="./index.html/">These</a> | 
+      <a href="index.html">These</a> | 
       <a href="index.html">Are just</a> | 
-      <a href="a;las;ldjas;dflka">Links</a> | 
+      <a href="index.html">Links</a> | 
       Except this
     </p>
   </div>
