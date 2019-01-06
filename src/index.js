@@ -14,7 +14,7 @@ ReactDOM.render(
     <p>No, no, it's okay, really</p>
     <h1>you don't have</h1>
     <p>to stay</p>
-    <img src="./assets/dragon.png" className="pic"/>
+    <img src="./assets/dragon.png" alt="dragon" className="pic"/>
     <p>
       <a href="./index.html/">These</a> | 
       <a href="index.html">Are just</a> | 
